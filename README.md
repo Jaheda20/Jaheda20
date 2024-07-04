@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaheda20&label=Profile%20views&color=0e75b6&style=flat" alt="jaheda20" /> </p>
 
 <h3 align="left">✨ About me</h3>
-I'm a frontend developer, recently finished a course on Complete Web Development from Programming Hero owned by Jhankar Mahbub. Now, open to collaborate on existing projects and learn more about web development.
+I'm a frontend developer, recently finished a course on Complete Web Development with Jhankar Mahbub from Programming Hero. Now, open to collaborate on existing projects and learn more about web development.
 
 
 - 🌱 I’m currently learning **Nextjs, Wordpress, typescript, Bootstrap**
