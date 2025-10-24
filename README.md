@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaheda20&label=Profile%20views&color=0e75b6&style=flat" alt="jaheda20" /> </p>
 
 <h3 align="left">✨ About me</h3>
-I'm a frontend developer, recently finished a course on Complete Web Development with Jhankar Mahbub from Programming Hero. Now, open to collaborate on existing projects and learn more about web development.
+Frontend Developer with hands-on experience building responsive, user-friendly web applications using React, Tailwind CSS, and modern JavaScript frameworks. Skilled in collaborating with designers and backend teams to deliver optimized, scalable solutions. Strong background in strategy and management, bringing analytical thinking, adaptability, and problem-solving into every project.
 
 
 - 🌱 I’m currently learning **Nextjs, Wordpress, typescript, Bootstrap**
